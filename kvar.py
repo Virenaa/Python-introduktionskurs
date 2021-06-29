@@ -1,8 +1,8 @@
 sal= int(input("Ange bruttolön:"))
-tax=int(input("Ange skatteprocent:"))
+taxrate=float(input("Ange skatteprocent:"))
 rent=int(input("Ange hyra:"))
 
-tax=sal*tax/100
+tax=sal*taxrate/100
 net=sal-tax
 remains=net - rent 
 
