@@ -1,2 +1,1 @@
-# Phyton
-Mycket som sker i koden
+# Phyton intoduktionskurs
